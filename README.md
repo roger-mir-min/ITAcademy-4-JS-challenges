@@ -1,6 +1,10 @@
 # Sprint 4 IT Academy | Video management tool
 
-(All of the following are the instructions I got to complete this ES6 challenge. In the code, I just completed the functions as required.)
+## Background
+All of the following are the instructions I got to complete this ES6 challenge. In the code, I just completed the functions as required.
+
+## Stack
+Javascript
 
 ## Introduction
 A company in the audiovisual sector has asked us for a web application that will allow their employees to quickly find movies from a large database they have, since the process is currently done manually.
